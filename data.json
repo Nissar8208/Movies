@@ -1,6 +1,1 @@
-{
-"title":"orange",
-"hero":"charan",
-"director":"Nissar",
-"music":"gopal"
-}
+{"id":"1","title":"orange","Actors":"charan","Director":"nissar","Genre":"gopal","Duration":"120min"}
